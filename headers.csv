@@ -1,5 +1,4 @@
 name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:dmsnextgen,custom:amp,custom:adsnapshots_uat,custom:ivitec,cognito:mfa_enabled,cognito:username
-aaron.labree,Aaron,Labree,,,,,,,aaron.labree@marketcast.com,TRUE,,,,,,FALSE,,,27-10-2023,27-10-2099,Y,FALSE,TRUE,FALSE,FALSE,FALSE,aaronlabree
 alex.davis,Alex,Davis,,,,,,,alex.davis@marketcast.com,TRUE,,,,,,FALSE,,,27-10-2023,27-10-2099,Y,FALSE,TRUE,FALSE,FALSE,FALSE,alexdavis
 bryson.dean,Bryson,Dean,,,,,,,bryson.dean@marketcast.com,TRUE,,,,,,FALSE,,,27-10-2023,27-10-2099,Y,FALSE,TRUE,FALSE,FALSE,FALSE,brysondean
 cynthia.paquin,Cynthia,Paquin,,,,,,,cynthia.paquin@marketcast.com,TRUE,,,,,,FALSE,,,27-10-2023,27-10-2099,Y,FALSE,TRUE,FALSE,FALSE,FALSE,cynthiapaquin
