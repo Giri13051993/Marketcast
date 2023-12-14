@@ -1,2 +1,0 @@
-name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:dmsnextgen,custom:amp,custom:adsnapshots_uat,custom:ivitec,custom:sat,cognito:mfa_enabled,cognito:username
-tejasnatu,tejas,natu,,,,,,,tejas.natu@marketcast.com,TRUE,,,,,FALSE,,,,14-12-2023,14-12-2099,Y,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,tejasnatu
