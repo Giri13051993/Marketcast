@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:phoneNumber,custom:adsnapshots-public,custom:accountenddate,custom:companyName,custom:wkspool,cognito:mfa_enabled,cognito:username
+masaki.aerts.marketcast.com,masaki,aerts,,,,,,,masaki.aerts@marketcast.com,TRUE,,,,,,,,,18-01-2024,FALSE,TRUE,18-01-2099,Marketcast,TRUE,FALSE,masaki.aerts.marketcast.com
