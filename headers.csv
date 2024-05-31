@@ -1,0 +1,2 @@
+name,given_name,family_name,middle_name,nickname,preferred_username,profile,picture,website,email,email_verified,gender,birthdate,zoneinfo,locale,phone_number,phone_number_verified,address,updated_at,custom:accountstartdate,custom:accountenddate,custom:internaluser,custom:dmsnextgen,custom:amp,custom:ivitec,custom:amp_uat,custom:mstest,custom:sat,cognito:mfa_enabled,cognito:username
+sakthibabuvalluvan,sakthibabu,valluvan,,,,,,,sakthibabu.valluvan@marketcast.com,TRUE,,,,,,FALSE,,,31-05-2024,31-05-2099,Y,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,sakthibabuvalluvan
